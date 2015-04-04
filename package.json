@@ -23,7 +23,7 @@
     "friendlyName": "StatusCake",
     "machineDir": "machines/",
     "machines": [
-      "get-all-tests",
+      "get-tests",
       "get-tests-details"
     ]
   },
