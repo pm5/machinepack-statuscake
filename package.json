@@ -1,6 +1,6 @@
 {
   "name": "machinepack-statuscake",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Work with StatusCake API to get Tests, Contact Groups, Alerts, etc.",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
